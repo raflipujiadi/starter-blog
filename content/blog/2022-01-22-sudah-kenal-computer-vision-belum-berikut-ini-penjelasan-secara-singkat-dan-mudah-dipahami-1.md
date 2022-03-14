@@ -1,8 +1,8 @@
 ---
 title: Sudah Kenal Computer Vision Belum? Berikut ini Penjelasan Secara Singkat
   dan Mudah Dipahami
-date: 2022-01-22T08:16:32.068Z
-draft: true
+date: 2022-03-14T20:47:41.415Z
+draft: false
 ---
 
 
