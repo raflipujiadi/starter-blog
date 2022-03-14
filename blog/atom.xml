@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://cecilapp.github.io/the-butler/blog/</id>
-  <title>PUJIADIRAFLI.COM - Blog</title>
+  <title>Welcome - Blog</title>
   <subtitle><![CDATA[Personal Blog]]></subtitle>
   <link href="https://cecilapp.github.io/the-butler/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/the-butler/blog/" rel="alternate" type="text/html" />
   <updated>2022-03-14T21:47:41+01:00</updated>
   <author>
-    <name>PUJIADIRAFLI.COM</name>
+    <name>Welcome</name>
     <uri>https://cecilapp.github.io/the-butler/</uri>
   </author>
   <entry xml:lang="en">
