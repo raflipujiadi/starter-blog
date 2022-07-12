@@ -3,6 +3,7 @@ theme:
   - hyde
   - netlify
   - netlify-cms
+  - hugo-profile
 keywords:
   - Cecil
   - Static Site Generator
